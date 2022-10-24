@@ -54,7 +54,7 @@ apt-get install ./google-chrome-stable_current_amd64.deb
 ulimit -n 999999
 chmod 777 *
 unzip ddos.zip
-Nhập Pass Vào, Pass Lấy Tại: http://traffic1s.com/PassVxH
+Nhập Pass Vào, Pass Lấy Tại:null
 python3 tdd.py
 ```
 # Group Telegram 
