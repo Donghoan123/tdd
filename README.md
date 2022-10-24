@@ -6,7 +6,7 @@
 
 # Mothed
 <p align="center"><img src="https://i.imgur.com/ID10g37.jpg" width="300" height="150" alt="Layer7"></p>
-<p align="center"><img src="https://i.imgur.com/HyEPDgG.jpeg" width="300" height="150" alt="Layer4"></p>
+<p align="center"><img src="https://i.imgur.com/iO7xe6r.jpg" width="300" height="150" alt="Layer4"></p>
 
 # Setup
 ```sh
@@ -34,8 +34,8 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/ViDucHung2006/VxHSX
-cd VxHSX
+git clone https://github.com/donghoan123/tdd
+cd tdd
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
@@ -55,27 +55,27 @@ ulimit -n 999999
 chmod 777 *
 unzip ddos.zip
 Nhập Pass Vào, Pass Lấy Tại: http://traffic1s.com/PassVxH
-python3 vdh.py
+python3 tdd.py
 ```
 # Group Telegram 
-* https://t.me/+k5f6Pq8bdR0xMDM9
+* https://t.me/null
 # Contact Me 
-* Telegram: @viduchung06
-* Zalo: 0359822840
-* Facebook: @Viduchung.06
+* Telegram: @donghoan123
+* Zalo:0975013450
+* Facebook: @dangdongit.info
 
 # Donate 
-* Momo: 0359822840 <br>
-CTK: Vi Đức Hùng 
-* Tsr: 0359822840 <br>
-CTK: Vi Hùng
-* SHB: 0000190506 <br>
-CTK: VI DUC HUNG 
+* Momo:0975013450 <br>
+CTK: Trần Đăng Đồng
+* Tsr:null  <br>
+CTK: null
+* MB:0975013450 <br>
+CTK: Tran Dang Dong 
 
 # Developers
-* Vi Duc Hung x Zxcr9999
+* Tran Dang Dong x Zxcr9999
 * Source by Zxcr9999 I updated the Proxy and less interface
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ViDucHung2006/VxHSXhit-counter&count_bg=%230BD4FF&title_bg=%23525050&icon=github.svg&icon_color=%23000000&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/donghoan123/tddhit-counter&count_bg=%230BD4FF&title_bg=%23525050&icon=github.svg&icon_color=%23000000&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
