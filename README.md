@@ -1,11 +1,11 @@
-<h1 align="center">VxHSX Panel DDoS</h1>
+<h1 align="center">TDD Panel DDoS</h1>
   
 <p align="center">Vui lòng không tấn công các trang web liên quan tới chính phủ.</p>
 
-<p align="center"><img src="https://i.imgur.com/RxA145Y.jpeg" width="300" height="150" alt="Demo DDoS"></p>
+<p align="center"><img src="https://i.imgur.com/yLr3Tca.jpg" width="300" height="150" alt="Demo DDoS"></p>
 
 # Mothed
-<p align="center"><img src="https://i.imgur.com/jSgBTTP.jpeg" width="300" height="150" alt="Layer7"></p>
+<p align="center"><img src="https://i.imgur.com/ID10g37.jpg" width="300" height="150" alt="Layer7"></p>
 <p align="center"><img src="https://i.imgur.com/HyEPDgG.jpeg" width="300" height="150" alt="Layer4"></p>
 
 # Setup
